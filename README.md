@@ -12,8 +12,6 @@
 [![npm](https://img.shields.io/npm/v/G1r1shCodes-codemaster?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/G1r1shCodes-codemaster)
 [![Twitter Follow](https://img.shields.io/twitter/follow/G1r1shCodes?style=social)](https://twitter.com/intent/follow?screen_name=G1r1shCodes)
 
-> The original unmodified source code is preserved in the [`backup` branch](https://github.com/G1r1shCodes/claude-code/tree/backup).
-
 </div>
 
 ---
